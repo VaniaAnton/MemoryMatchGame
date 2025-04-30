@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hfgFPNM2UNs=",
+  "success": true,
+  "projectFilePath": "/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/MemoryMatch.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/5_vania_5/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/5_vania_5/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

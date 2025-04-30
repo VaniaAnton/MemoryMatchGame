@@ -1,0 +1,11 @@
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/bin/Debug/net9.0/MemoryMatch.Core.deps.json
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/bin/Debug/net9.0/MemoryMatch.Core.dll
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/bin/Debug/net9.0/MemoryMatch.Core.pdb
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/obj/Debug/net9.0/MemoryMatch.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/obj/Debug/net9.0/MemoryMatch.Core.AssemblyInfoInputs.cache
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/obj/Debug/net9.0/MemoryMatch.Core.AssemblyInfo.cs
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/obj/Debug/net9.0/MemoryMatch.Core.csproj.CoreCompileInputs.cache
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/obj/Debug/net9.0/MemoryMatch.Core.dll
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/obj/Debug/net9.0/refint/MemoryMatch.Core.dll
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/obj/Debug/net9.0/MemoryMatch.Core.pdb
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/obj/Debug/net9.0/ref/MemoryMatch.Core.dll

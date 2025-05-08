@@ -27,7 +27,6 @@ dotnet run
 - MemoryMatchGame.Game/ – Data access layer, Screen, main files.
 - MemoryMatchGame.Core/ – Models and background logic.
 
-### ✅ Implemented C# Features
 ## ✅ Implemented C# Features
 
 | Feature | Implementation |

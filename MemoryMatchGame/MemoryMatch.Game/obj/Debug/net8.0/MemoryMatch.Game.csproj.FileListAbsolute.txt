@@ -31,3 +31,4 @@
 /Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Game/obj/Debug/net8.0/MemoryMatch.Game.pdb
 /Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Game/obj/Debug/net8.0/MemoryMatch.Game.genruntimeconfig.cache
 /Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Game/obj/Debug/net8.0/ref/MemoryMatch.Game.dll
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Game/obj/Debug/net8.0/MemoryMatch.Game.sourcelink.json

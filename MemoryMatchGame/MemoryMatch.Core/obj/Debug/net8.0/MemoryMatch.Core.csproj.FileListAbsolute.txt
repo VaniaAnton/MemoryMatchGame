@@ -9,3 +9,4 @@
 /Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/obj/Debug/net8.0/refint/MemoryMatch.Core.dll
 /Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/obj/Debug/net8.0/MemoryMatch.Core.pdb
 /Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/obj/Debug/net8.0/ref/MemoryMatch.Core.dll
+/Users/5_vania_5/Desktop/HW_C#/HW1/MemoryMatchGame/MemoryMatch.Core/obj/Debug/net8.0/MemoryMatch.Core.sourcelink.json

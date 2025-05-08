@@ -24,7 +24,7 @@ namespace MemoryMatch.Core.Models
         }
         
         // Override Equals to compare by Id
-        public override bool Equals(object obj)
+        public override bool Equals(object? obj)
         {
             return obj is CardType type && Id == type.Id;
         }
@@ -35,7 +35,7 @@ namespace MemoryMatch.Core.Models
         }
         
         // Implement == and != operators
-        public static bool operator ==(CardType left, CardType right)
+        public static bool operator ==(CardType? left, CardType? right)
         {
             if (ReferenceEquals(left, null))
                 return ReferenceEquals(right, null);

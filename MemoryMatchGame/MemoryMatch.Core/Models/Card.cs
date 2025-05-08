@@ -88,13 +88,13 @@ namespace MemoryMatch.Core.Models
         }
         
         // Operator overloading
-        public static bool operator ==(Card left, Card right)
+        public static bool operator ==(Card? left, Card right)
         {
             if (left is null) return right is null;
             return left.Equals(right);
         }
         
-        public static bool operator !=(Card left, Card right)
+        public static bool operator !=(Card? left, Card right)
         {
             return !(left == right);
         }

@@ -31,37 +31,36 @@ dotnet run
 
 | Feature | Implementation |
 |--------|----------------|
-| **Custom Interface** | `ICard` in `Models/Card.cs` |
+| **Custom Interface** | `IGameElement` in `Interfaces/IGameElement.cs` |
 | **IComparable<T>** | Implemented in `Card.cs` |
 | **IEquatable<T>** | Implemented in `Card.cs` |
-| **IFormattable** | Implemented in `Card.cs` |
-| **switch with when** | Used in `GameLogic.cs` |
+| **IFormattable** | Implemented in `GameScreen.cs` |
+| **switch with when** | Used in `GameScreen.cs` |
 | **Range Type** | Used in `GameBoard.cs` |
-| **Multiple Assemblies** | Split into `MemoryMatchGame`, `MemoryMatchGame.Data`, `MemoryMatchGame.Models` |
-| **sealed Class** | `GameEngine` is a sealed class |
-| **abstract Class** | `BaseCard` is an abstract class |
-| **Static Constructor** | Defined in `GameSettings.cs` |
+| **Multiple Assemblies** | Split into `MemoryMatchGame.Core`, `MemoryMatchGame.Game` |
+| **abstract Class** | `GameEntity` is an abstract class |
+| **Static Constructor** | Defined in `Card.cs` |
 | **Deconstructor** | Implemented in `Card.cs` |
 | **Operator Overloading** | `==` and `!=` in `Card.cs` |
 | **System.Collections.Generic** | `List<T>`, `Dictionary<TKey, TValue>` used throughout |
-| **is Operator** | Used in `GameLogic.cs` |
-| **Default and Named Arguments** | Used in methods in `GameEngine.cs` |
-| **params Keyword** | Used in `Logger.cs` |
-| **out Arguments** | Used in `Parser.cs` |
-| **Delegates/Lambda Functions** | Used in LINQ and event handlers |
-| **Bitwise Operations** | Used in `Permissions.cs` |
-| **?., ??, ??= Operators** | Used in `GameSettings.cs` |
-| **Pattern Matching** | Implemented in `GameLogic.cs` |
-| **IEnumerable<T>** | Implemented in `Deck.cs` |
-| **IEnumerator<T>** | Implemented in `DeckEnumerator.cs` |
-| **Iterator (yield return)** | Used in `Deck.cs` |
-| **Extension Methods** | Found in `StringExtensions.cs` |
-| **Custom Exception** | Defined in `InvalidCardException.cs` |
-| **try-catch** | Used in `DatabaseService.cs` |
-| **Generic Type** | `Repository<T>` in `Repository.cs` |
-| **where Constraints** | Applied in `Repository<T>` |
-| **Generic Extension Method** | Found in `EnumerableExtensions.cs` |
+| **is Operator** | Used in `Card.cs` |
+| **Default and Named Arguments** | Used in methods in `GameEntity.cs` |
+| **params Keyword** | Used in `ScoreCalculator.cs` |
+| **out Arguments** | Used in `GameLogic.cs` |
+| **Delegates/Lambda Functions** | Used in LINQ and event handlers, example in `ScoreCalculator.cs`|
+| **Bitwise Operations** | example: Bitwise Left Shift Used in `Card.cs` |
+| **?., ??, ??= Operators** | Used in `GameScreen.cs` |
+| **Pattern Matching** | Implemented in `Card.cs` |
+| **IEnumerable<T>** | Implemented in `CardCollection.cs` |
+| **IEnumerator<T>** | Implemented in `CardCollection.cs` |
+| **Iterator (yield return)** | Used in `GameBoard.cs` |
+| **Extension Methods** | Found in `CardExtensions.cs` |
+| **Custom Exception** | Defined in `CustomExtension.cs` |
+| **try-catch** | Used in `CardExtensions.cs` |
+| **Generic Type** | Implemented in `CardCollection.cs` |
+| **where Constraints** | Applied in `CardCollection.cs` |
+| **Generic Extension Method** | Found in `CardExtensions.cs` |
 | **Extension Deconstructor** | Found in `CardExtensions.cs` |
 | **ICloneable** | Implemented in `Card.cs` |
-| **Events** | Used in `GameEngine.cs` |
+| **Events** | Used in `GameLogic.cs` |
 | **LINQ** | Used extensively in queries |
